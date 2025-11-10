@@ -1,6 +1,6 @@
 # Hello there! I'm João Ferreira
 
-Brazilian, married, father of two, and a software engineer since 2003.
+Brazilian, father of two, and a software engineer since 2003.
 
 - [Home Page and Blog](https://johnylab.com.br)
 - [Linkedin Profile](https://www.linkedin.com/in/johnylab/)

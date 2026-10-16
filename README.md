@@ -26,8 +26,3 @@ Brazilian software engineer since 2003, based in Santos, SP. Today I build full 
 - Web Developer at Colégio Objetivo Baixada Santista (March 2010 - September 2017)
 - Web Designer at Fundação Lusíada (June 2008 - March 2010)
 - Web Designer and Computing Teacher at Escola Aprendiz (February 2007 - November 2007)
-
-## Recent projects
-
-- [mentoria-os](https://github.com/johnylab/mentoria-os): AI copilot for career, programming and English mentoring
-- [johnylab.github.io](https://github.com/johnylab/johnylab.github.io): my site and blog

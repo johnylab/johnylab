@@ -7,13 +7,14 @@ Brazilian software engineer since 2003, based in Santos, SP. Today I build full 
 - [LinkedIn Profile](https://www.linkedin.com/in/johnylab/)
 - [Behance Portfolio](https://www.behance.net/johnylab)
 
-## Projetos em destaque
+## Featured projects
 
-- [car-catalog-nestjs-graphql](https://github.com/johnylab/car-catalog-nestjs-graphql): NestJS + GraphQL + MongoDB no backend, React + Apollo + MUI no frontend, com Docker e CI.
-- [octobusca](https://github.com/johnylab/octobusca): busca de usuários do GitHub e dos repositórios mais populares ([demo](https://magnificent-sable-3de464.netlify.app/)); React, TypeScript e Bootstrap.
-- [br-input-masks](https://github.com/johnylab/br-input-masks): máscaras de entrada para formulários brasileiros, publicada no [npm](https://www.npmjs.com/package/br-input-masks).
-- [threejs-surveillance-camera](https://github.com/johnylab/threejs-surveillance-camera): experimento em THREE.js ([demo](https://johnylab.com.br/threejs-surveillance-camera/)).
-- [johnylab.github.io](https://github.com/johnylab/johnylab.github.io): meu site e blog (Jekyll).
+- [car-catalog-nestjs-graphql](https://github.com/johnylab/car-catalog-nestjs-graphql): vehicle catalog with a NestJS + GraphQL + MongoDB backend and a React + Apollo + MUI frontend, Docker and CI.
+- [octobusca](https://github.com/johnylab/octobusca): GitHub user search showing their most popular repositories ([demo](https://magnificent-sable-3de464.netlify.app/)); React, TypeScript, Bootstrap.
+- [br-input-masks](https://github.com/johnylab/br-input-masks): Brazilian form input masks (CPF, CNPJ, phone...), published on [npm](https://www.npmjs.com/package/br-input-masks).
+- [threejs-surveillance-camera](https://github.com/johnylab/threejs-surveillance-camera): THREE.js experiment ([demo](https://johnylab.com.br/threejs-surveillance-camera/)).
+- [claude-code-usage-monitor](https://github.com/johnylab/claude-code-usage-monitor): pace-aware usage monitor for Claude Code.
+- [johnylab.github.io](https://github.com/johnylab/johnylab.github.io): my site and blog (Jekyll).
 
 ## Tech Expertise
 

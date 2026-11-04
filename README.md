@@ -7,6 +7,14 @@ Brazilian software engineer since 2003, based in Santos, SP. Today I build full 
 - [LinkedIn Profile](https://www.linkedin.com/in/johnylab/)
 - [Behance Portfolio](https://www.behance.net/johnylab)
 
+## Projetos em destaque
+
+- [car-catalog-nestjs-graphql](https://github.com/johnylab/car-catalog-nestjs-graphql): NestJS + GraphQL + MongoDB no backend, React + Apollo + MUI no frontend, com Docker e CI.
+- [octobusca](https://github.com/johnylab/octobusca): busca de usuários do GitHub e dos repositórios mais populares ([demo](https://magnificent-sable-3de464.netlify.app/)); React, TypeScript e Bootstrap.
+- [br-input-masks](https://github.com/johnylab/br-input-masks): máscaras de entrada para formulários brasileiros, publicada no [npm](https://www.npmjs.com/package/br-input-masks).
+- [threejs-surveillance-camera](https://github.com/johnylab/threejs-surveillance-camera): experimento em THREE.js ([demo](https://johnylab.com.br/threejs-surveillance-camera/)).
+- [johnylab.github.io](https://github.com/johnylab/johnylab.github.io): meu site e blog (Jekyll).
+
 ## Tech Expertise
 
 - Full stack: React, Next.js and TypeScript on the front end; Node.js on the back end (also Go and Java).
